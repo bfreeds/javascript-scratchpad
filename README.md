@@ -1,4 +1,4 @@
-# JS Playground  
+# Javascript Scratchpad    
 
 This repo is a playground/sandbox to explore the javascript language, web apis, and nodejs.  
 
